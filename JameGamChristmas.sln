@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vildmark.Tests", "Vildmark\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vildmark.Windowing", "Vildmark\Vildmark.Windowing\Vildmark.Windowing.csproj", "{19A4AAB9-F6CE-4F4F-A092-BC624ED258BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JameGamChristmas", "JameGamChristmas\JameGamChristmas.csproj", "{A498700F-F210-42D5-A894-EA6743883A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{19A4AAB9-F6CE-4F4F-A092-BC624ED258BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A4AAB9-F6CE-4F4F-A092-BC624ED258BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A4AAB9-F6CE-4F4F-A092-BC624ED258BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A498700F-F210-42D5-A894-EA6743883A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A498700F-F210-42D5-A894-EA6743883A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A498700F-F210-42D5-A894-EA6743883A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A498700F-F210-42D5-A894-EA6743883A83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0B1F85AA-8803-4B20-A569-06C06AC3E546} = {11BC6DFE-C1E3-4F27-9C47-C5F9A3CA11C6}
